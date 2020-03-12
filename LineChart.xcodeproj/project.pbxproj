@@ -482,7 +482,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WJ43L634JM;
+				DEVELOPMENT_TEAM = 27G6MT3FPC;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/LineChart/PrefixHeader.pch";
 				INFOPLIST_FILE = LineChart/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -501,7 +501,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WJ43L634JM;
+				DEVELOPMENT_TEAM = 27G6MT3FPC;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/LineChart/PrefixHeader.pch";
 				INFOPLIST_FILE = LineChart/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
